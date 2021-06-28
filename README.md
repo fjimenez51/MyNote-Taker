@@ -71,7 +71,7 @@
 ## Contact
 
   [![GitHub]](https://github.com/fjimenez51) 
-  [![LinkedIn](https://img.shields.io/badge/](https://www.linkedin.com/in/fernando-jimenez-diaz-49413398/)
+  [![LinkedIn](https://www.linkedin.com/in/fernando-jimenez-diaz-49413398/)
 
   ## Contributions
 
